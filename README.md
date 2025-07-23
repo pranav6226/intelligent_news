@@ -58,7 +58,7 @@ flowchart TD
 ### 1. Clone the Repository
 ```bash
 git clone <repo-url>
-cd ModoAI-project
+cd intelligent-news
 ```
 
 ### 2. Create and Activate Virtual Environment
