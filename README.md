@@ -147,4 +147,3 @@ ModoAI-project/
 
 ## Credits
 - Built with Python, Supabase, OpenAI, LangChain, KeyBERT, Flask, Chart.js
-- System design and implementation: [Your Name] 
